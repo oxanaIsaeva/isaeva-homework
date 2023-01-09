@@ -1,0 +1,12 @@
+{
+    "type": "module",
+    "name": "base_js",
+    "version": "1.0.0",
+    "main": "1-js_part.js",
+    "scripts": {
+      "test": "node ./tale.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": ""
+  }
